@@ -5,3 +5,5 @@ Exemplo de programação orientada à objeto realizado nas aulas do professor Ev
 ------
 
 Nesse projeto foi realizado funcões do Java Script orientadas à objeto para criar uma lista dinâmica de ingredientes no documento HTML.
+
+## Bug encontrado
